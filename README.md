@@ -13,3 +13,5 @@ Tested with:
 * `Theano 0.7.0`
 * `Scikitlearn 0.17`
 * `Numpy 1.10.2`
+
+Here is great lecture from Paul Vincent on denoising auto encoders: http://videolectures.net/icml08_vincent_ecrf/ 
